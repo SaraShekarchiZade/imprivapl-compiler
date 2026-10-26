@@ -1,0 +1,12 @@
+
+# IntelliJ IDEA
+.idea/
+
+# Compiled Java output
+out/
+*.class
+
+# ANTLR temporary and metadata files
+*.interp
+*.tokens
+*.iml
